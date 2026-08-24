@@ -1,5 +1,12 @@
 # Báo cáo Đánh giá & Bằng chứng Hoàn thành — Day 22: LangSmith + Prompt Versioning
 
+## 🔗 Thông tin Dự án & Đường dẫn
+
+* **LangSmith Project URL**: [day22-lab Dashboard](https://smith.langchain.com/o/f6b2ef2d-515e-4371-a39a-ef2d830f6283/projects/p/fc2ff969-4223-44d1-8d3f-64851ac5694c?timeModel=%7B%22duration%22%3A%221d%22%7D&tab=0)
+* **Tên Project**: `day22-lab`
+
+---
+
 ## 1. Danh sách tệp bằng chứng (Evidence Deliverables)
 
 | Tệp | Mô tả | Trạng thái |
